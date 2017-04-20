@@ -25,4 +25,5 @@ use \<?= $generator->ns ?>\base\<?= $className ?> as Base<?= $className ?>;
  */
 class <?= $className ?> extends Base<?= $className . "\n" ?>
 {
+  // TODO: Add function getLabel
 }
